@@ -1,0 +1,6 @@
+{
+  "name": "semanal",
+  "owner": { "name": "manuelfp88" },
+  "description": "semanal: el porcentaje del límite semanal de Claude Code, en el pie del cuadro de escribir.",
+  "plugins": [{ "name": "semanal", "source": "./" }]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "semanal",
+  "version": "0.1.0",
+  "description": "Muestra en el pie del cuadro de escribir el porcentaje usado del límite semanal.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "manuelfp88"
+  },
+  "license": "MIT"
+}
