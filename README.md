@@ -7,7 +7,7 @@ Muestra en el pie del cuadro de escribir de Claude Code el porcentaje usado de t
 - Es solo informativo: se dibuja como botón para colocarse a la izquierda en la app de escritorio, pero pulsarlo no hace nada.
 - Puede ir hasta un punto por debajo del popup de límites de la app, que es la cifra de referencia.
 
-Combina bien con [compactor](https://github.com/manuelfp88/compactor), desde su versión 0.1.1.
+Combina bien con [compactor](https://github.com/manuelfp88/compactor), desde su versión 0.1.2.
 
 ## Instalación
 

@@ -34,8 +34,8 @@ export const register: Register = on => {
     return (
       <Box>
         {/* El escritorio pone los botones delante del texto: sin ser botón, saldría detrás del de compactor. */}
-        <Button key="semanal" plain dimColor onPress={() => {}}>{ICONO} {shown}</Button>
         {drawn}
+        <Button key="semanal" plain dimColor onPress={() => {}}>{ICONO} {shown}</Button>
       </Box>
     )
   })
