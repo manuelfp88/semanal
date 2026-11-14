@@ -1,5 +1,7 @@
 # semanal
 
+> **Integrado en [compactor](https://github.com/manuelfp88/compactor) desde su versión 0.2.0.** Si usas compactor 0.2.0 o posterior, no instales este mod: verías `📅` dos veces. Este repositorio se queda como está.
+
 Muestra en el pie del cuadro de escribir de Claude Code el porcentaje usado de tu límite semanal, por ejemplo `📅 6 %`.
 
 - Se actualiza al abrir la sesión y al terminar cada turno.
